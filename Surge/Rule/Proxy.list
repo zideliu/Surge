@@ -1,5 +1,7 @@
 # Zide
 DOMAIN-SUFFIX, wandb.ai
+DOMAIN-KEYWORD, arxiv
+
 
 # 内容：GoogleFCM 谷歌推送服务
 # 数量：35条
